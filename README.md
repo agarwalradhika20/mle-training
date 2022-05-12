@@ -1,3 +1,9 @@
+# How to run the code
+
+conda env create --name envname --file=env.yml
+conda activate envname
+python nonstandardcode.py
+
 # Median housing value prediction
 
 The housing data can be downloaded from https://raw.githubusercontent.com/ageron/handson-ml/master/. The script has codes to download the data. We have modelled the median house value on given housing data. 
