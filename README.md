@@ -1,6 +1,6 @@
 # How to run the code
-conda env create --name envname --file=env.yml
-conda activate envname
+conda env create --name mle-dev --file=env.yml
+conda activate mle-dev
 python nonstandardcode.py
 
 # Median housing value prediction
