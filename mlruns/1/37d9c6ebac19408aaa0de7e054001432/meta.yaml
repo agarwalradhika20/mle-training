@@ -1,0 +1,15 @@
+artifact_uri: mlruns/1/37d9c6ebac19408aaa0de7e054001432/artifacts
+end_time: 1659549858018
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 37d9c6ebac19408aaa0de7e054001432
+run_uuid: 37d9c6ebac19408aaa0de7e054001432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1659549852279
+status: 3
+tags: []
+user_id: radhika.agarwal
